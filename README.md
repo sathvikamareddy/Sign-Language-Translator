@@ -48,7 +48,7 @@ SignProject/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/Sign-Language-Translator.git
+git clone https://github.com/sathvikamreddy/Sign-Language-Translator.git
 
 cd Sign-Language-Translator
 
