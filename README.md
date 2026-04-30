@@ -36,11 +36,11 @@ This project uses computer vision and deep learning to recognize hand gestures a
 
 ## 📂 Project Structure
 
-SignProject/
-│── pros.py # Main application file
-│── asl_model.h5 # Trained model (not included)
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+SignProject/<br>
+│── pros.py # Main application file<br>
+│── asl_model.h5 # Trained model (not included)<br>
+│── requirements.txt # Dependencies<br>
+│── README.md # Project documentation<br>
 
 ---
 
@@ -59,12 +59,6 @@ cd Sign-Language-Translator
 python -m venv tf_env
 
 tf_env\Scripts\activate
-
----
-
-### 3️⃣ Install dependencies
-
-pip install -r requirements.txt
 
 ---
 
